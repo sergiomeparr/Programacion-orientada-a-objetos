@@ -1,0 +1,6 @@
+Windows:
+	javac NombrePrograma.java
+	appletviewer NombrePrograma.html
+Java 3D:
+	javac -cp .;j3dcore.jar;j3dutils.jar;vecmath.jar nombreArchivo.java
+	java -cp .;j3dcore.jar;j3dutils.jar;vecmath.jar nombreArchivo
